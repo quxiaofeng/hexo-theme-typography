@@ -1,17 +1,17 @@
-title_primary: "活版印字" # the bigger text
-title_secondary: "Typography" # the smaller text
+title_primary: "曲晓峰" # the bigger text
+title_secondary: "博客" # the smaller text
 keywords:
 
-twitter: #username
+twitter: quxiaofeng #username
 rss: atom.xml
 weibo: #username/id
-instagram: #username
-github: #username
+instagram: quxiaofeng #username
+github: quxiaofeng #username
 
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
 livere: # [data-uid] on livere.com
-disqus: # [short_name] on disqus.com
+disqus: quxiaofenggithub# [short_name] on disqus.com
 dove: # For fun ONLY. Set to true to 'disable' comments on your site.
 
 # Set true to show the page indicator.
